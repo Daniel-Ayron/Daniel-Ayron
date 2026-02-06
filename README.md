@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Daniel%20Ayron&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20de%20Sistemas%20%7C%20Entusiasta%20de%20IA&descAlignY=65&descSize=25)
-# Olá, seja bem bindo(a)! 🚀 👋
+# Olá, seja bem-vindo(a)! 🚀 👋
 
 Sou Daniel Ayron, desenvolvedor de Sistemas em constante evolução, entusiasta de tecnologia e movido pelo desejo de criar soluções que realmente agreguem valor à vida das pessoas. Atualmente, foco meus estudos no ecossistema **Web (React, JS, TS)** e na exploração teórica da **Inteligência Artificial**.
 
