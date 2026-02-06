@@ -28,7 +28,7 @@ Atualmente aprofundando conhecimentos via Udemy e projetos práticos:
 ---
 
 ### 💡 Projeto de Destaque: OTTO
-O **OTTO** é uma solução baseada em IA para a educação. Fui o responsável por todo o embasamento bibliográfico e pesquisa teórica sobre os impactos e o funcionamento da IA no projeto, o que nos rendeu reconhecimento nacional na FEBIC em Joinville.
+O **OTTO** é uma solução baseada em IA para a educação. Fui o responsável por todo o embasamento bibliográfico e pesquisa teórica sobre os impactos e o funcionamento da IA no projeto, o que nos rendeu reconhecimento nacional na FEBIC em Joinville. Além disso atuei diretamente no Front-end de cada etapa desse trabalho, contribuindo para uma constante eficácia e modernização.
 
 ---
 
